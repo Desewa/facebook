@@ -1,0 +1,28 @@
+.col-7 h3,p{
+    text-align: right;
+}
+.col-7 h3{
+    color: blue;
+    font-size: 35px;
+    font-weight: bold;
+}
+.slink{
+    text-decoration: none;
+}
+a{
+    width: 100%;
+}
+.row{
+    background-color: #f0f2f5;
+    height: 350px;
+}
+form{
+    width: 70%;
+    height:70% ;
+}
+form table input,a{
+    margin-left: 30%;
+    margin-top: 5%;
+
+}
+
